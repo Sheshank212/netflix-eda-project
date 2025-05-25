@@ -36,3 +36,5 @@ Exploratory Data Analysis (EDA) of the Netflix titles dataset to uncover trends 
 - [GitHub](https://github.com/Sheshank212)  
 - [LinkedIn](https://www.linkedin.com/in/sheshank3)
 
+## License
+MIT
