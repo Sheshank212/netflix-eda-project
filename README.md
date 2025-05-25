@@ -33,7 +33,7 @@ Exploratory Data Analysis (EDA) of the Netflix titles dataset to uncover trends 
 ![Top Countries](results/top_countries.png)
 
 ## Project Structure
-
+```
 netflix-eda-project/
 │
 ├── netflix_eda.py # Main Python script with full EDA
@@ -44,7 +44,7 @@ netflix-eda-project/
 │ ├── release_trend.png
 │ └── top_countries.png
 └── README.md # Project documentation
-
+```
 
 ## Author
 **Sheshank Priyadarshi**  
