@@ -15,7 +15,8 @@ Exploratory Data Analysis (EDA) of the Netflix titles dataset to uncover trends 
 
 ## Data Cleaning Summary
 - Dropped rows with missing values
-- Removed `director` column due to excessive nulls
+- Removed `director` column (29.91% missing values)
+
 
 ## Visualizations
 
@@ -30,6 +31,19 @@ Exploratory Data Analysis (EDA) of the Netflix titles dataset to uncover trends 
 
 ### Top Producing Countries
 ![Top Countries](results/top_countries.png)
+
+## Project Structure
+
+netflix-eda-project/
+│
+├── netflix_eda.py # Main Python script with full EDA
+├── netflix_titles.csv # Raw dataset from Kaggle
+├── results/ # Folder containing saved plot images
+│ ├── type_distribution.png
+│ ├── top_genres.png
+│ ├── release_trend.png
+│ └── top_countries.png
+└── README.md # Project documentation
 
 ## Author
 **Sheshank Priyadarshi**  
